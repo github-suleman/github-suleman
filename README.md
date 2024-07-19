@@ -33,7 +33,7 @@ Always eager to learn and explore new things
 <br>
 <p>
   <img align="center" src="https://komarev.com/ghpvc/?username=github-suleman" alt="Profile Visits">
-  <a href="https://wakatime.com/@HerrErde">
+  <a href="https://wakatime.com/@RaiSuleman">
     <img align="center" src="https://wakatime.com/badge/user/6188509a-8ffb-4e0e-a9f2-7a16c8090af2.svg" alt="Wakatime" />
   </a>
 </p>
